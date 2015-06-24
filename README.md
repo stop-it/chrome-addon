@@ -1,0 +1,3 @@
+# Stop-it - Add-on for Google Chrome browser
+
+... TODO Add some contents here...
